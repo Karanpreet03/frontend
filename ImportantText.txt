@@ -1,0 +1,11 @@
+Created By: Karanpreet Sachdeva.
+Id: C0884994
+---------------------------------------------------------
+|Two new functionality used using react-dev website are:|
+|useEffect hook						|	
+|axios 							|
+---------------------------------------------------------
+
+Do npm install express and mongoose in backend
+Do npm install axios
+
